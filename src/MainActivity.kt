@@ -21,7 +21,7 @@ fun Screen() {
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally,
         ) {
-            BasicText("Hello, World!")
+            BasicText("Hello, Prasanth")
         }
     }
 }

@@ -6,6 +6,7 @@ dependencies:
   # Compose integration with Android activities
   - androidx.activity:activity-compose:1.7.2
   - androidx.appcompat:appcompat:1.6.1
+  - com.google.android.material:material:1.10.0
 
 settings:
   android:
